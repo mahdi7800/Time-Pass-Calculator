@@ -1,0 +1,10 @@
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Release\WindowsFormsApp7.exe.config
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Release\WindowsFormsApp7.exe
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Release\WindowsFormsApp7.pdb
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\WindowsFormsApp7.Form1.resources
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\WindowsFormsApp7.Properties.Resources.resources
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\WindowsFormsApp7.csproj.GenerateResource.cache
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\WindowsFormsApp7.exe
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\WindowsFormsApp7.pdb
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Release\WindowsFormsApp7.csprojAssemblyReference.cache
